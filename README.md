@@ -57,3 +57,8 @@ Hé, zal je zien, heb je eindelijk je website klaar, zit er toch nog een foutje 
 Geen paniek, je kan in je repository makkelijk aanpassingen maken. Je gaat naar het bestand dat je aan wil passen en klikt dan op het potloodje of `Edit File` om het bestand te bewerken.
 
 ![Bewerken van een bestand.](images/edit.png)
+
+
+
+<sub><sup>Dank aan de collega's van het ds. Pierson College</sup></sub>
+
