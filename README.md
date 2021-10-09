@@ -5,7 +5,7 @@ Om je website op GitHub Pages te hosten, zal je eerst een [account aan moeten ma
 ## Repository maken
 Je gaat je website-code hosten in een repository, zodat je makkelijk veranderingen kan aanbrengen en de geschiedenis van je programmeer-kunsten terug kan vinden.
 
-> :information_source:  **Repository** betekent letterlijk *bewaarplaats*.    
+> **Repository** betekent letterlijk *bewaarplaats*.    
 > Op GitHub is dit een soort van folder waar alles van je project in te vinden is.
 
 Maak [een nieuwe repository](https://github.com/new) die precies `gebruikersnaam.github.io` heet, waarbij je `gebruikersnaam` vervangt met je GitHub gebruikersnaam. Vink ook het vakje `Initialize this repository with a README` (!) aan.
@@ -13,7 +13,7 @@ Als je dat gedaan hebt klik je op `Create repository`.
 
 ![Een nieuwe repository maken.](images/create-repository.png)
 
-> :information_source: **Dit zijn voorbeelden**.    
+> **Dit zijn voorbeelden**.    
 > Je moet natuurlijk wel je eigen informatie invullen.
 
 
@@ -36,7 +36,7 @@ Voor een nieuw bestand typ je bijvoorbeeld `index.html` in het bestand vakje. Vo
 ### Committen
 Wanneer je daar klaar mee bent, ga je je commit klaar maken.
 
-> :information_source:  **(to) Commit** betekent letterlijk *doen* of *uitvoeren*.    
+> **(to) Commit** betekent letterlijk *doen* of *uitvoeren*.    
 > Op GitHub *commit* je veranderingen aan je code naar je repository met een beschrijving. Zo kun je later terug lezen wat je veranderd hebt.
 
 Elke keer als je een verandering maakt aan een bestand in je repository, moet je die veranderingen opslaan in je repository. Dit heet 'committen'.
